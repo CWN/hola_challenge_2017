@@ -1,0 +1,7 @@
+{
+    "dependencies": {
+        "heap": "^0.2.6",
+        "node-getopt": "0.2.3",
+        "random-js": "1.0.8"
+    }
+}
